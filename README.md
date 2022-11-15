@@ -46,17 +46,10 @@
     ```
     python 4k_pic_restoration.py --input_path "./4kpictures/inputs" --output_path "./4kpictures/outputs" --weight_path “NAFNet-REDS-width64.pdparams”
     ```
-- 现在就可以去看模糊修复效果啦，参见本项目pictures/outputs和4kpictures/outputs
+- 现在就可以去看模糊修复效果啦，更多效果参见本项目下pictures/outputs和4kpictures/outputs
 
 处理前：
  <img src="https://github.com/Ulov888/PictureRestoration/blob/master/pictures/inputs/3.png" width = "500" height = "300" alt="图片名称" align=center />
 
 处理后：
  <img src="https://github.com/Ulov888/PictureRestoration/blob/master/pictures/outputs/3_restoration.png" width = "500" height = "300" alt="图片名称" align=center />
-
-处理前：
- <img src="https://github.com/Ulov888/PictureRestoration/blob/master/pictures/inputs/4.png" width = "500" height = "300" alt="图片名称" align=center />
-
-处理后：
- <img src="https://github.com/Ulov888/PictureRestoration/blob/master/pictures/outputs/4_restoration.png" width = "500" height = "300" alt="图片名称" align=center />
-
