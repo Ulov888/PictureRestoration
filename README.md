@@ -26,7 +26,7 @@
 
 - 首先我将NAFNet的deblur权重转换为Paddle的之后并挂载在项目的数据集中，一共有两个权重：
     - 在GoPro数据集上训练得到的`NAFNet-GoPro-width64.pdparams`， 主要用于运动模糊图像的去除
-    - 在REDS数据集上训练得到的`NAFNet-REDS-width64.pdparams`，主要用于有压缩损失的模糊图像恢复
+    - 在REDS数据集上训练得到的`NAFNet-REDS-width64.pdparams`，主要用于有压缩损失的模糊图像恢复，为方便下载，附上模型参数的网盘下载链接: https://pan.baidu.com/s/1lt4-DXjfHFrH9Yd7huknLA 提取码: phfk 
 - 接下来则是基于PaddleGAN来调用该权重，运行本项目之前需要将PaddleGAN克隆至本地,并安装必要的依赖
     ```
     git clone https://github.com/PaddlePaddle/PaddleGAN
