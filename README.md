@@ -18,7 +18,7 @@
 
 
 ### 1.2 NAFNet介绍
-- [NAFNet](https://arxiv.org/abs/2204.04676)是旷视研究院提出的用于图像复原的模型，在图像去模糊、去噪都取得了很好的性能，不仅**计算高效同时性能优于现有的SOTA方案**，效果如下图所示。在双目超分任务上，基于NAFNet的双目超分模型NAFSSR**获得NTIRE 2022的双目超分赛道冠军**
+- [NAFNet](https://arxiv.org/abs/2204.04676)是旷视研究院提出的用于图像复原的模型，在图像去模糊、去噪都取得了很好的性能，不仅计算高效同时性能优于现有的SOTA方案，效果如下图所示。在双目超分任务上，基于NAFNet的双目超分模型NAFSSR**获得NTIRE 2022的双目超分赛道冠军**
 
 ![](https://ai-studio-static-online.cdn.bcebos.com/04af7bb7c88a4b0ea780bd71b6a8e3d1a86f5b26d6a34113b9d204e2c66990d9)
 
